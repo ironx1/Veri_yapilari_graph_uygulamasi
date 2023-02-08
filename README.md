@@ -1,2 +1,2 @@
-# Veri_yapilari_graph_uygulamasi
+# Veri yapiları graph uygulaması
 C++ ile basit graph uygulaması. 
